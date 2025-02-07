@@ -5,9 +5,9 @@
 
 <h3 align="center">Software Engineering Student | Innovating from Sri Lanka</h3>
 
-<img align="right" alt="robot" width="150" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imeshpunsara&label=Profile%20views&color=0e75b6&style=flat" alt="imeshpunsara" /> </p>
+
+<img align="right" alt="robot" width="150" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> <br>
 
 - 🌱 I’m currently learning **Angular**
   
