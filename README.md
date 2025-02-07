@@ -1,5 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 <h1 align="center"> Hi 👋, I'm Imeshi Punsara <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300"> </h1>
 
@@ -7,15 +6,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imeshpunsara&label=Profile%20views&color=0e75b6&style=flat" alt="imeshpunsara" /> </p>
 
-<img align="right" alt="robot" width="150" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> <br>
+<img align="right" alt="robot" width="150" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> <br> 
 
 - 🌱 I’m currently learning **Angular**
   
 - 📫 How to reach me **imeshipunsara9@gmail.com**
 
 - ⚡ Fun fact **Call me as Ishu**
----
 
+---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/imeshipunsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imeshipunsara" height="30" width="40" /></a>
